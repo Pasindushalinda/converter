@@ -1,0 +1,10 @@
+name: converter
+version: 0.0.1
+description: A tool for image conversion
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  prompter_ps: ^0.0.1
+  image: ^3.2.2
